@@ -1,4 +1,4 @@
-# MagMutual ML Infrastructure
+# MagMutual Actuarial/DS/ML Infrastructure
 
 ## Overview
 
